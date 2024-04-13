@@ -19,4 +19,5 @@ All tests should always pass, regardless of environment conditions.
 4. `greet` returns `Good morning <name>` when the time is 06:00-12:00
 5. `greet` returns `Good evening <name>` when the time is 18:00-22:00
 6. `greet` returns `Good night <name>` when the time is 22:00-06:00
-7. `greet` logs into console each time it is called
+7. `greet` logs into console each time it is called# curso-backend-kata-tdd
+# curso-backend-kata-tdd
